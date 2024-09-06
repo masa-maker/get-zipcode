@@ -8,3 +8,4 @@
 ・ReactでのWebAPI操作の感覚を掴む為。
 ・覚えたことを実践したかった為。
 
+![B0F8A536-AB41-4897-9262-C57266A552D4](https://github.com/user-attachments/assets/0bcf9ca4-1a9d-480c-82b6-1dccdaf7ac82)
