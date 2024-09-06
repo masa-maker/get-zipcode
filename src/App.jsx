@@ -11,7 +11,6 @@ function App() {
 
   const onClickSearch = () => {
     axios.get(`https://zipcloud.ibsnet.co.jp/api/search?zipcode=${searchText}`).then((res) => {
-        console.log(res.data.results[0]);
       setResults(
         {
           zipcode: res.data.results[0].zipcode,
